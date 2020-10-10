@@ -1,0 +1,6 @@
+.vscode/
+__pycache__/
+dist/
+product_list.xlsx
+store.db
+product_manager_env/
