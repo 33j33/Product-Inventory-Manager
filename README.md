@@ -26,10 +26,10 @@ Screenshots and source code of the Application are provided below.
 
 <img src="screenshots/1.png">
 
-<img src="screenshots/2.jpg">
+<img src="screenshots/2.JPG">
 
 
 ***The screenshot of the excel file it creates***
 
-<img src="screenshots/3.jpg">
+<img src="screenshots/3.JPG">
 
