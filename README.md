@@ -24,9 +24,9 @@ Screenshots and source code of the Application are provided below.
 
 ***Application Window***
 
-<img src="screenshots/1.png">
+<img src="screenshots/1.png" width="70%">
 
-<img src="screenshots/2.JPG">
+<img src="screenshots/2.JPG" width="70%">
 
 
 ***The screenshot of the excel file it creates***
